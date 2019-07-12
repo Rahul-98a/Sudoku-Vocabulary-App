@@ -1,3 +1,7 @@
+# App Description and User Requirments
+The sudoku vocabulary app is a app intended to help the user learn a new language. It works similar to a regular sudoku game, but instead of filling  numbers in, you fill words. You will have 9 words to select from at the bottom and you are to put their translation into the grid following regular sudoku rules (meaning you must have a unique word in each row, column, and subgrid). The pre-configured grid will have words in one language, and the list at the bottom will have the words in another language, requiring the users to know the translations of the words. The features of the app are listed below as user stories.
+
+
 Iteration 1
 
 User story: As a language learner, I want the to be able to translate words to and from my language, so that I can remember words better.
