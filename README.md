@@ -120,7 +120,7 @@ Then:  The game grid will change to corresponding language and also the selectio
 User Stories:
 1.As a teachers and students of elementary school and secondary school, we want a simple sudoku problem, so that we can do some simple practices.
 Scenario 1: 
-Given: There are selections of different sizes of sudoku game.
+Given: There are selections of different sizes of sudoku grid.
 When: Users can select 4x4 sizes of easier game.
 Then:  The sudoku grid will change to 4x4 format.
 Scenario 2:
